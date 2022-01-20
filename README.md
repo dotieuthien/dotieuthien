@@ -1,8 +1,7 @@
 ### Hi, I'm Thien 👋
 
-I'm an AI Researcher at Cinnamon
 
-- 🔭 I'm currently building a framework for automatic colorization and interpolation for Anime (Japanese Animation)
+- 🔭 I'm an AI Researcher at Cinnamon, currently building a framework for automatic colorization and interpolation for Anime (Japanese Animation)
 
 
 <p align="left">
