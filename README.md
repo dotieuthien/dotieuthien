@@ -1,7 +1,7 @@
 ### Hi, I'm Thien 👋
 
 
-- 🔭 I'm an AI Researcher at Cinnamon, currently building a framework for automatic colorization and interpolation for Anime (Japanese Animation)
+- 🔭 I'm an AI Engineer at Momo, currently I am working on Computer Vision applying ecommerce, and besides, I am also focusing on AI serving: scalability, latency, efficiency in microservice system
 
 
 <p align="left">
