@@ -1,9 +1,6 @@
 ### Hi, I'm Thien 👋
 
 
-- 🔭 I'm an AI Engineer at Momo, currently I am working on Computer Vision models applying ecommerce, and besides, I am also focusing on AI serving: scalability, latency, efficiency in microservice system
-
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dotieuthien&show_icons=true" alt="dotieuthien" /> 
 
