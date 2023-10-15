@@ -1,5 +1,9 @@
 ### Hi, I'm Thien 👋
-Currently working on these projects: 
+Currently focusing on:
+- Acceleration on GPU, CPU
+- Stable diffusion, LLM
+
+
 
 📫 How to reach me: [dotieuthien](mailto:dotieuthien9997@gmail.com)
 
