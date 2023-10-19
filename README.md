@@ -1,7 +1,7 @@
 ### Hi, I'm Thien 👋
 Currently focusing on:
 - Acceleration on GPU, CPU
-- Stable diffusion, LLM
+- Stable diffusion, Multimodal, LLM
 
 
 
